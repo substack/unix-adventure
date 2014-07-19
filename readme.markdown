@@ -16,7 +16,17 @@ such as MacOSX, Linux, Android, iOS, busybox, and FreeBSD.
 
 To play unix adventure, you will first need a unix.
 
-If you are already running Linux or MacOSX, you are good to go!
+## linux
+
+If you are already running Linux, you are good to go!
+
+## mac osx
+
+If you are already running MacOSX, you are probably good to go, but you might
+need to install the GNU versions of some tools with [brew](http://brew.sh)
+first.
+
+## windows
 
 If you are on Windows, consider dual-booting to a desktop Linux distribution
 such as [Ubuntu](http://ubuntu.com/). By dual-booting, you will be able to boot
@@ -30,8 +40,14 @@ box.
 If you are stuck, as some of your hacker friends for help getting set up with
 linux!
 
-Once you have a unix, from the command-line do:
+## npm install
+
+Once you have a unix and [node](http://nodejs.org) installed, do:
 
 ```
 npm install -g unix-adventure
 ```
+
+to get a `unix-adventure` command.
+
+Type `unix-adventure` to get started.
