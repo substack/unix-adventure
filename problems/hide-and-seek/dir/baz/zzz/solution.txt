@@ -1,0 +1,4 @@
+You found the file! Now run this command to verify the solution:
+
+  unix-adventure verify solution.txt
+
