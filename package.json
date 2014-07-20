@@ -1,0 +1,30 @@
+{
+  "name": "unix-adventure",
+  "version": "1.0.0",
+  "description": "become a unix wizard",
+  "bin": {
+    "unix-adventure": "runner.js"
+  },
+  "dependencies": {
+    "adventure": "~2.6.0",
+    "adventure-verify": "~2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/unix-adventure.git"
+  },
+  "homepage": "https://github.com/substack/unix-adventure",
+  "keywords": [
+    "adventure",
+    "nodeschool",
+    "education",
+    "unix",
+    "learning"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}

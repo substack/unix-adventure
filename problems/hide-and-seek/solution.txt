@@ -1,0 +1,9 @@
+You found the hidden solution.txt file and followed the instructions!
+
+and you learned about and used these commands:
+
+  cd   - change directory
+  pwd  - print working directory
+  ls   - list files in a directory
+  cat  - print the contents of files
+

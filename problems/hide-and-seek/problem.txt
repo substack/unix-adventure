@@ -1,15 +1,15 @@
-For this adventure, we will be using 4 commands: `cd`, `ls`, `pwd`, and `cat.
+For this adventure, we will be using 3 commands: `cd`, `ls`, `pwd`, and `cat.
 
 # PROBLEM
 
-Using `cd`, `ls`, and `pwd`, find a file called `solution.txt` starting
+Using `cd`, `ls`, and `pwd`, find a file called `hidden.txt` starting
 from the directory:
 
   $DIR
 
 Once you have found this file, print out its contents with `cat`:
 
-  cat solution.txt
+  cat hidden.txt
 
 The file will have further instructions.
 
@@ -66,4 +66,10 @@ or even go up 2 parent directories and then into some sub-directories all
 in one shot:
 
   cd ../../foo/bar
+
+## cat
+
+If you want to inspect a file's contents, you can use `cat`. `cat` is short for
+conCATenate. All the files you pass to `cat` as arguments will be read and
+printed to the screen.
 
