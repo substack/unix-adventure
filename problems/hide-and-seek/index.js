@@ -4,7 +4,7 @@ var path = require('path');
 var solutionFile = path.join(__dirname, 'dir/baz/zzz/hidden.txt');
 
 exports.problem = fs.readFileSync(__dirname + '/problem.txt', 'utf8')
-    .replace(/\$DIR/g, solutionFile)
+    .replace(/\$DIR/g, path.join(__dirname, 'dir'))
 ;
 exports.solution = fs.createReadStream(__dirname + '/solution.txt');
 
