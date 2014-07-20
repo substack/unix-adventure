@@ -56,7 +56,8 @@ parent directory:
 
   cd ..
 
-This is handy if you
+This is handy if you need to back-track out of a directory you navigated
+into with `cd`.
 
 You can even go up 2 parent directories at once with:
 
