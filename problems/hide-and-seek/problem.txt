@@ -1,4 +1,4 @@
-For this adventure, we will be using 3 commands: `cd`, `ls`, `pwd`, and `cat.
+For this adventure, we will be using 3 commands: `cd`, `ls`, `pwd`, and `cat`.
 
 # PROBLEM
 
